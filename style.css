@@ -39,6 +39,7 @@ button:hover{
 #quoteDisplay{
     text-align: center;
     color: #333;
+    font-style: italic;
 }
 
 @media  screen and (max-width:768px) {
